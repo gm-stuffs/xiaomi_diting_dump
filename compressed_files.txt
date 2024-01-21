@@ -1,0 +1,2 @@
+recovery.img.xz
+boot.img.xz
